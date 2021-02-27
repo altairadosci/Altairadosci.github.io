@@ -1,0 +1,43 @@
+body {	
+	font-family: 'Lato', 'Verdana';
+	font-size: 100%;
+	background: #fff;
+}
+.wrap {
+	margin: 0 auto;
+	width: 70%;
+}
+.header {
+	padding: 1.3em 0em;
+}
+.logo {
+	float: left;
+}
+.logo a {
+	display: block;
+}
+.nav {
+	float: right;
+	margin-top: 0.82em;
+}
+.menu {
+	display: inline-block;
+}
+.menu a:hover {
+	background: #d0a5a5;
+  	color: #ffffff;
+
+}
+.menu a {
+	display: block;
+	font-family: 'Lato', sans-serif;
+	font-size: 1.1em;
+	text-transform: uppercase;
+	padding: 0.5em 1em;
+	color: #444;
+	-webkit-transition: 0.9s;
+	-moz-transition: 0.9s;
+	-o-transition: 0.9s;
+	transition:	0.9s;
+	text-decoration: none;
+}
