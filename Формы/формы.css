@@ -1,0 +1,18 @@
+.clear {
+	clear:both;
+}
+fieldset {
+	width: 98%;
+  	border: 2px solid #999;
+  	display: inline-block;
+}
+.forms form p{
+	display: inline-block;
+}
+.oplata p{
+	display: inline;
+	margin: 0 2px;
+}
+input {
+	margin: 15px auto;
+}
