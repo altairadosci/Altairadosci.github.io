@@ -69,6 +69,7 @@ h1 .title {
 }
 .btn:hover {
 	background: #e9be15;
+	cursor: pointer
 }
 .world {
 	margin-top: 60px;
